@@ -1,0 +1,27 @@
+body {
+  background-color: #f0f0f0;
+}
+
+.calc {
+  width: 200px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.screen {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: right;
+}
+
+.key {
+  width: 40px;
+  height: 40px;
+  margin: 3px;
+  font-size: 16px;
+}
+
+
